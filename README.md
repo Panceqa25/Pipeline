@@ -1,3 +1,3 @@
 # Pipeline
 
-Implementação simples de um Pipeline Risc-V
+Implementação simples do circuito de um Pipeline Risc-V
